@@ -38,11 +38,13 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #706c6c;
 }
 .page-container {
   max-width: 1000px;
   margin: 30px auto;
   padding: 0 20px;
+  margin: 20px;
+
 }
 

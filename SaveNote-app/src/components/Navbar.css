@@ -1,0 +1,13 @@
+.navbar-wrapper {
+  width: 100%;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.navbar {
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 55px;
+}
